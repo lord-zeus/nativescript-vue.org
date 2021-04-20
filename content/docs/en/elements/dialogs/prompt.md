@@ -43,6 +43,7 @@ You can also configure the input type using `inputType`. You can choose between 
 inputType: dialogs.inputType.text
 inputType: dialogs.inputType.email
 inputType: dialogs.inputType.password
+inputType: dialogs.inputType.number
 ```
 
 **NOTE:** This option is not globally available and you need to require the `dialogs` module in your app before using `inputType`.
